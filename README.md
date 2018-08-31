@@ -1,2 +1,5 @@
-# Fast-Food-Fast
-Fast Food Fast is simple App to help Fast food venders monitor their business. It allows customers to sign up, sign in and place orders. The admin can view the orders, accept or reject them. He/she can also update the menu.
+This a simple app designed for a small fast food restaurant.
+The app allows users to create an account, sign in and palce orders.
+The app also allows the admin to add food items to the menu, edit the menu and/or delete food items from the menu
+So far I have created the user interfaces.
+The backend and database yet to be created

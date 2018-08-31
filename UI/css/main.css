@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: dodgerblue;
+  font-family: CASTELLAR, times , sans-serif;
+  font-size: 16px;
+  background-image: url(../images/4.jpg);
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.9;
+
+
+}
+#Welcome{
+  font-family: Arial, CASTELLAR, sans-serif;
+  font-size: 25px;
+  color:darkblue;
+}
+
+.container {
+	padding: 50px;
+	background-color: crimson;
+	width: 40%;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: 1px solid #f1f1f1;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px 0 #111;
+
+}
+small a {
+  color: black;
+}
+ul {
+	font-size: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #f1f1f1;
+  background-color: dodgerblue;
+  position: sticky;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightgrey;
+}
+
+li a.active {
+  
+    background-color: lightgreen;
+}
+.header {
+  margin-bottom: 25px;
+}
+
+
+form {
+	padding: 20px;
+}
+
+.form-control {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccbbcc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    line-height: 20px;
+    font-size: 15px;
+}
+
+.button {
+    font-size: 16px;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 120px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.form-container {
+    padding: 16px;
+}
+
+.button-success {
+  background-color: green;
+}
+
+.button-primary {
+  background-color: blue;
+}
+.button-red {
+  background-color: red;
+ }
+ .button-default{
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.button-small {
+  color: white;
+
+  padding: 5px 20px;
+  margin-top: 2px;
+  margin-right: 5px;
+  border: none;
+  cursor: pointer;
+  width: 90px;
+  border-radius: 5px;
+}
+
+.button-small:hover {
+    opacity: 0.6;
+}
+
+.left-align {
+  display: inline;
+  margin-right: 30px;
+}
+.link-btn {
+  font-size: 15px;
+  color: white;
+  padding: 15px 20px;
+  margin: 8px 0px;
+  border: none;
+  cursor: pointer;
+  width: 120px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.link-btn:hover {
+  opacity: 0.8;
+}
+
+a {
+  text-decoration: none;
+}
